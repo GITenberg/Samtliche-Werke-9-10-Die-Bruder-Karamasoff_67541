@@ -1,0 +1,76 @@
+_repo: Samtliche-Werke-9-10-Die-Bruder-Karamasoff_67541
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Merejkowsky, Dmitry de
+    - Mérejkowsky, Dmitry de
+    - Мережковский, Дмитрий Сергеевич
+    - Mérejkowski, Dmitri
+    - Merejkowski, Dmitri
+    - Mereschkowski, Dmitri
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+  translator:
+    agent_name: Rahsin, E. K.
+    aliases:
+    - Разин, Э. К.
+    - Rahsin, Less
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '49851'
+    url: http://www.gutenberg.org/2009/agents/49851
+    wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    - Dostoevsky, Fyodor
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, Fyodor Mikhailovich
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+  editor:
+    agent_name: Moeller van den Bruck, Arthur
+    aliases:
+    - Van den Bruck, Arthur Moeller
+    - Den Bruck, Arthur Moeller van
+    - Bruck, Arthur Moeller van den
+    birthdate: 1876
+    deathdate: 1925
+    gutenberg_agent_id: '49850'
+    url: http://www.gutenberg.org/2009/agents/49850
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+    - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+description: ''
+gutenberg_issued: '2022-03-02'
+identifiers:
+  gutenberg: '67541'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/uiug.30112082124535, https://hdl.handle.net/2027/uiug.30112082124543
+pgterms:marc905: 20180107013237dostojewsk
+pgterms:marc906: '1914'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: Germany :Piper,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sämtliche Werke 9-10: Die Brüder Karamasoff'
+url: http://www.gutenberg.org/ebooks/67541
